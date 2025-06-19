@@ -1,18 +1,42 @@
-# 🧭 Coordinate System
-Bu proje, Java kullanarak 2B uzaydaki temel geometrik kavramların nesne yönelimli bir yaklaşımla modellenmesini amaçlar.
 
-## ✨ Özellikler
-- `Point`: x ve y koordinatlarına sahip nokta nesnesi  
-- `Line`: İki nokta arasında tanımlı doğru parçası  
-- `PolyLine`: Birden fazla noktadan oluşan kırık çizgi yapısı
+# 📍 Coordinate System – Java
 
-## 📁 Yapı
-- `Point.java` → Nokta sınıfı  
-- `Line.java` → Başlangıç ve bitiş noktalarıyla doğru oluşturur  
-- `PolyLine.java` → Noktalar dizisinden çizgi koleksiyonu üretir
+This project is a simple **Coordinate System** application developed using **Java**. It demonstrates basic geometric operations and object-oriented programming techniques through coordinate calculations.
 
-## 🚀 Kullanım
-Projeyi klonlayın ve bir Java IDE'sinde açarak sınıfları test edin:
+---
 
-```bash
-git clone https://github.com/YusufTufan/Coordinate_system.git
+## 🧩 Features
+
+- 📌 Define and manipulate points in a 2D coordinate system  
+- ➕ Perform basic operations: distance, midpoint, etc.  
+- 🧠 Uses OOP concepts: Classes, Encapsulation, Inheritance  
+- 🖥️ Console-based interaction for educational/demo purposes
+
+---
+
+## 🛠 Technologies
+
+- Java (Standard Edition)
+- Object-Oriented Programming (OOP)
+- CLI (Command-Line Interface)
+
+---
+
+# 📍 Koordinat Sistemi – Java
+
+Bu proje, **Java** kullanılarak geliştirilmiş basit bir **Koordinat Sistemi** uygulamasıdır. İki boyutlu düzlemde nokta tanımlama ve işlemleri gerçekleştirme üzerine kuruludur.
+
+---
+
+## 🧩 Özellikler
+
+- 📌 2D düzlemde nokta tanımlama ve düzenleme  
+- ➕ Uzaklık, orta nokta gibi temel geometrik işlemler  
+- 🧠 Sınıf yapıları, kapsülleme, kalıtım gibi OOP teknikleri  
+- 🖥️ Konsol tabanlı çalışma – eğitim veya demo amaçlı
+
+---
+
+## 👨‍💻 Developer / Geliştirici
+
+**Yusuf Tufan**  
